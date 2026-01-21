@@ -18,12 +18,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11 Pro</b> (24H2)
 
 
 
 <h2>Installation Steps</h2>
 
+- Step 1 Start by Creating the virtual machine                                                                       
+- Step 2
+- Step 3
+- Step 4
+- Step 5
+- Step 6
+- Step 7
+- Step 8
+- Step 9
+- Step 10
+- Step 11
+- Step 12
+- Step 13
+- Step 14
+- Step 15
+- Step 16
+
+  <h2>Step 1- Create the Virtual Machine</h2>
+  
 <p>
 <img <img width="1440" height="611" alt="Screenshot 2025-10-20 at 3 14 32 PM" src="https://github.com/user-attachments/assets/977b2366-26f2-4f56-a36c-88faaa63d25b" />
 <img width="1429" height="768" alt="resource group screenshot 2026-01-21 at 1 55 14 PM" src="https://github.com/user-attachments/assets/fe8e468f-c15c-4b48-b2ca-b5b64a1a46f4" />
