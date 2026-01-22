@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Step 1 Start by Creating the virtual machine                                                                       
+- Step 1 Create the virtual machine and Log into the Virtual Machine                                                                       
 - Step 2
 - Step 3
 - Step 4
@@ -41,7 +41,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 15
 - Step 16
 
-  <h2>Step 1- Create the Virtual Machine</h2>
+  <h2></h2>
+
+  
+  <p>
+ Step 1 - Start by selecting  the Virtual Machine and the logging into the Virutal Machine. 
+</p>
   
 <p>
 <img <img width="1440" height="611" alt="Screenshot 2025-10-20 at 3 14 32 PM" src="https://github.com/user-attachments/assets/977b2366-26f2-4f56-a36c-88faaa63d25b" />
@@ -49,7 +54,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1431" height="771" alt="virtual machine 2026-01-21 at 2 00 52 PM" src="https://github.com/user-attachments/assets/481dc1c9-44e2-4d47-a25a-be14cf3dc068" />
 <img width="1235" height="651" alt="Screenshot 2026-01-21 at 2 25 07 PM" src="https://github.com/user-attachments/assets/de5ee6fa-9267-4ea3-bf40-9db011acf218" />
 <img width="1241" height="609" alt="Screenshot 2026-01-21 at 2 39 47 PM" src="https://github.com/user-attachments/assets/b979bd08-1e98-4643-9e19-4a5aaae55f22" />
-
+<img width="1244" height="647" alt="Screenshot 2026-01-22 at 9 36 48 AM" src="https://github.com/user-attachments/assets/2e115839-75f0-4e63-895a-2f123101fe0f" />
+  <img width="712" height="645" alt="Screenshot 2026-01-22 at 12 51 30 PM" src="https://github.com/user-attachments/assets/24dd8445-7166-4189-a987-fb1d3b243a8b" />
+ <img width="710" height="641" alt="Screenshot 2026-01-22 at 12 51 56 PM" src="https://github.com/user-attachments/assets/544cb94b-3e49-4e63-8590-fe79a4f28745" />
+  <img width="707" height="643" alt="Screenshot 2026-01-22 at 12 52 21 PM" src="https://github.com/user-attachments/assets/55e15039-89cd-4e28-8a4e-6f260fa831a2" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -57,11 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 52 26 PM" src="https://github.com/user-attachments/assets/a3089baa-6af9-4ee5-8d0d-5f9280c3c1cf" />
-  <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 52 50 PM" src="https://github.com/user-attachments/assets/3a461caa-f479-4342-975e-f40790e19ce6" />
-  <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 53 36 PM" src="https://github.com/user-attachments/assets/471e237a-22ba-4e9e-a327-2a55b63f21ae" />
-  <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 53 51 PM" src="https://github.com/user-attachments/assets/f5bdfc04-5e2f-4e64-a93e-7d4b2c050202" />
-</p>
+<img width="629" height="776" alt="Screenshot 2026-01-22 at 1 14 25 PM" src="https://github.com/user-attachments/assets/3c839b58-ecfe-4d32-a4aa-d4aca8101eca" />
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
