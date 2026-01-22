@@ -68,8 +68,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   
   <p>
- **Task 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to **Image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**. Scroll down to fill in the "Username" and "Password" section with something that's easy to remember. Be sure to click the **checkmark** under the licensing section and click **review + create**. To deploy the Virtual Machine click **Create** and from this point on the Virtual Machine is created and ready for use.
-  
+ **Task 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to the **image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**. Scroll down to fill in the **"Username"** and **"Password"** section with something that's easy to remember. Be sure to click the **checkmark** under the licensing section and click **review + create**. To deploy the Virtual Machine, click **Create**. The Virtual Machine is created and ready for use.
+
+
 <p>
 <img width="1440" height="611" alt="Screenshot 2025-10-20 at 3 14 32 PM" src="https://github.com/user-attachments/assets/f333ba8d-e42e-49bf-9d34-ca1a658aca71" />
 <img width="1429" height="768" alt="resource group screenshot 2026-01-21 at 1 55 14 PM" src="https://github.com/user-attachments/assets/fe8e468f-c15c-4b48-b2ca-b5b64a1a46f4" />
