@@ -76,15 +76,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1431" height="771" alt="virtual machine 2026-01-21 at 2 00 52 PM" src="https://github.com/user-attachments/assets/481dc1c9-44e2-4d47-a25a-be14cf3dc068" />
 <img width="1235" height="651" alt="Screenshot 2026-01-21 at 2 25 07 PM" src="https://github.com/user-attachments/assets/de5ee6fa-9267-4ea3-bf40-9db011acf218" />
 <img width="1241" height="609" alt="Screenshot 2026-01-21 at 2 39 47 PM" src="https://github.com/user-attachments/assets/b979bd08-1e98-4643-9e19-4a5aaae55f22" />
+  <p>
+    
+**Task 2** -
+
+</p>
+
 <img width="1244" height="647" alt="Screenshot 2026-01-22 at 9 36 48 AM" src="https://github.com/user-attachments/assets/2e115839-75f0-4e63-895a-2f123101fe0f" />
   <img width="712" height="645" alt="Screenshot 2026-01-22 at 12 51 30 PM" src="https://github.com/user-attachments/assets/24dd8445-7166-4189-a987-fb1d3b243a8b" />
  <img width="710" height="641" alt="Screenshot 2026-01-22 at 12 51 56 PM" src="https://github.com/user-attachments/assets/544cb94b-3e49-4e63-8590-fe79a4f28745" />
   <img width="707" height="643" alt="Screenshot 2026-01-22 at 12 52 21 PM" src="https://github.com/user-attachments/assets/55e15039-89cd-4e28-8a4e-6f260fa831a2" />
-</p>
+
 <p>
- Step 2 -
+
+**Task 3** -
+  
 </p>
-<br />
+
 
 <p>
 <img width="629" height="776" alt="Screenshot 2026-01-22 at 1 14 25 PM" src="https://github.com/user-attachments/assets/3c839b58-ecfe-4d32-a4aa-d4aca8101eca" />
