@@ -60,7 +60,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <img width="707" height="643" alt="Screenshot 2026-01-22 at 12 52 21 PM" src="https://github.com/user-attachments/assets/55e15039-89cd-4e28-8a4e-6f260fa831a2" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Step 2 -
 </p>
 <br />
 
