@@ -20,7 +20,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 11 Pro</b> (24H2)
 
+<h2>List of Prerequisites </h2>
 
+- Azure Account (to deploy the virtual machine)
+
+- Windows 11 Virtual Machine (created in Azure)
+
+- Administrator Access to the virtual machine
+
+- Remote Desktop Connection software
+
+- osTicket Installation Files (downloaded from the official site or as provided in lab resources)
+
+- IIS (Internet Information Services) enabled with CGI support
+
+- PHP (appropriate version installed)
+
+- MySQL 5.5 (for the osTicket database)
+
+- HeidiSQL (for managing the MySQL database)
+
+- Microsoft Visual C++ Redistributable (required for PHP/MySQL)
 
 <h2>Installation Steps</h2>
 
