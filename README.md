@@ -80,7 +80,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1241" height="609" alt="Screenshot 2026-01-21 at 2 39 47 PM" src="https://github.com/user-attachments/assets/b979bd08-1e98-4643-9e19-4a5aaae55f22" />
   <p>
     
-**Task 2** - Select the "Virtual Machine" icon from Azure’s homescreen, then go to the osTicket VM that was just created and copy the Public IP address next to the red arrow. 
+**Task 2** - To log into the Virtual Machine using remote desktop select the **"Virtual Machine"** icon from Azure’s homescreen, then go to the **osTicket VM** that was just created and copy the Public IP address next to the red arrow. Paste the **public IP address** in the **Add PC(PC name)** section of remote desktop and in the **Friendly name** section put osTicket then select **"Add"**.
 
 </p>
 
