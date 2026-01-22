@@ -82,6 +82,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 
+<img width="1424" height="227" alt="azure home" src="https://github.com/user-attachments/assets/1869ac21-30ab-4ffc-8f23-a5615f404816" />
+<img width="1241" height="609" alt="Screenshot 2026-01-21 at 2 39 47 PM" src="https://github.com/user-attachments/assets/0ff1c89d-738a-4d3d-9bf4-e742025280d5" />
 <img width="1244" height="647" alt="Screenshot 2026-01-22 at 9 36 48 AM" src="https://github.com/user-attachments/assets/2e115839-75f0-4e63-895a-2f123101fe0f" />
   <img width="712" height="645" alt="Screenshot 2026-01-22 at 12 51 30 PM" src="https://github.com/user-attachments/assets/24dd8445-7166-4189-a987-fb1d3b243a8b" />
  <img width="710" height="641" alt="Screenshot 2026-01-22 at 12 51 56 PM" src="https://github.com/user-attachments/assets/544cb94b-3e49-4e63-8590-fe79a4f28745" />
