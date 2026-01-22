@@ -60,6 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 52 26 PM" src="https://github.com/user-attachments/assets/a3089baa-6af9-4ee5-8d0d-5f9280c3c1cf" />
   <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 52 50 PM" src="https://github.com/user-attachments/assets/3a461caa-f479-4342-975e-f40790e19ce6" />
   <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 53 36 PM" src="https://github.com/user-attachments/assets/471e237a-22ba-4e9e-a327-2a55b63f21ae" />
+  <img width="1440" height="900" alt="Screenshot 2025-10-20 at 10 53 51 PM" src="https://github.com/user-attachments/assets/f5bdfc04-5e2f-4e64-a93e-7d4b2c050202" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
