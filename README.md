@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   
   <p>
- **Step 1** - Start by selecting the button that says **Create** then on the drop down menu select the option that says **Virtual Machine**.
+ **Step 1** - Start by clicking the button that says **Create** then on the drop down menu select the option that says **Virtual Machine**. Next, under the **Basics** tab scroll down to **Resource group** where you see the red arrow and click **Create new**.
 </p>
   
 <p>
