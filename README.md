@@ -24,28 +24,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Step 1 Create the virtual machine and Log into the Virtual Machine                                                                       
-- Step 2
-- Step 3
-- Step 4
-- Step 5
-- Step 6
-- Step 7
-- Step 8
-- Step 9
-- Step 10
-- Step 11
-- Step 12
-- Step 13
-- Step 14
-- Step 15
-- Step 16
+- Task 1 Create the virtual machine and Log into the Virtual Machine                                                                       
+- Task 2
+- Task 3
+- Task 4
+- Task 5
+- Task 6
+- Task 7
+- Task 8
+- Task 9
+- Task 10
+- Task 11
+- Task 12
+- Task 13
+- Task 14
+- Task 15
+- Task16
 
   <h2></h2>
 
   
   <p>
- **Step 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to **Image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**.
+ **Task 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to **Image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**.
   
 <p>
 <img width="1440" height="611" alt="Screenshot 2025-10-20 at 3 14 32 PM" src="https://github.com/user-attachments/assets/f333ba8d-e42e-49bf-9d34-ca1a658aca71" />
