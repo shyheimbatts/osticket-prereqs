@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   
   <p>
- Step 1 - Start by selecting  the Virtual Machine and the logging into the Virutal Machine. 
+ **Step 1** - Start by selecting the button that says **Create** then on the drop down menu select the option that says **Virtual Machine**.
 </p>
   
 <p>
