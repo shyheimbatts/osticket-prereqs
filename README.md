@@ -44,8 +44,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Task 1 Create the virtual machine and Log into the Virtual Machine                                                                       
-- Task 2
+- Task 1 Create the virtual machine                                                                       
+- Task 2 Log into the Virtual Machine
 - Task 3
 - Task 4
 - Task 5
@@ -59,7 +59,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Task 13
 - Task 14
 - Task 15
-- Task16
+- Task 16
+- Task 17
+- Task 18
+- Task 19
 
   <h2></h2>
 
