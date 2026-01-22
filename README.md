@@ -44,8 +44,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Task 1 Create the virtual machine                                                                       
-- Task 2 Log into the Virtual Machine
+- Task 1 Create the Virtual Machine(VM)                                                                       
+- Task 2 Log into the Virtual Machine(VM) with Remote Desktop
 - Task 3
 - Task 4
 - Task 5
@@ -78,7 +78,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1241" height="609" alt="Screenshot 2026-01-21 at 2 39 47 PM" src="https://github.com/user-attachments/assets/b979bd08-1e98-4643-9e19-4a5aaae55f22" />
   <p>
     
-**Task 2** -
+**Task 2** - From the azure home select the "Virtual Machine"
 
 </p>
 
