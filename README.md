@@ -122,6 +122,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 49 46 PM" src="https://github.com/user-attachments/assets/3b7d192f-9888-4d13-9c15-d0fd774e2374" />
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 51 18 PM" src="https://github.com/user-attachments/assets/27f5a98a-3e21-4bcf-8992-55a790932f7f" />
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 52 40 PM" src="https://github.com/user-attachments/assets/5a6e991e-e2f6-4da2-814d-8c6f538ff62c" />
+  <img width="448" height="738" alt="Screenshot 2025-10-28 at 6 09 36 PM" src="https://github.com/user-attachments/assets/88ef9ed6-1b7c-4f12-a517-f148e1434c2f" />
+  <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 12 05 PM" src="https://github.com/user-attachments/assets/25a06cf4-6fc4-4651-bf3a-a4adf91b925d" />
+  <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 12 27 PM" src="https://github.com/user-attachments/assets/6d44c604-7711-4eef-bc20-9f1eddfefad1" />
+  <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 13 02 PM" src="https://github.com/user-attachments/assets/47ed0e25-da4d-43d3-aa3e-ce901cae2374" />
+  <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 13 40 PM" src="https://github.com/user-attachments/assets/cc0be937-8087-4fc9-97ee-670109b6cba8" />
 
   
 <p>
