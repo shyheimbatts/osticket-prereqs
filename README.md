@@ -133,6 +133,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 22 41 PM" src="https://github.com/user-attachments/assets/e6bf4ab8-1e65-42ba-b305-bfe0eba5c34d" />
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 22 22 PM" src="https://github.com/user-attachments/assets/b8674570-7309-48e2-8b00-a96cef659164" />
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 22 56 PM" src="https://github.com/user-attachments/assets/c7b576e6-77cd-4dad-b129-52fedd860245" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 25 05 PM" src="https://github.com/user-attachments/assets/fd402bc7-823b-4429-92f9-426dd4650a4e" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 26 00 PM" src="https://github.com/user-attachments/assets/5ff43130-0c9f-41d9-9a2f-0603a0445f7d" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 26 25 PM" src="https://github.com/user-attachments/assets/77a3ce4a-6687-4033-b3e6-662eaeef4571" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 30 02 PM" src="https://github.com/user-attachments/assets/7efbfd16-8cfb-4117-b0f3-18aef649f4cb" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 39 48 PM" src="https://github.com/user-attachments/assets/67ac7fbf-e442-4f59-a6d1-e28b86b365b5" />
+<img width="492" height="382" alt="Screenshot 2025-11-05 at 1 45 07 PM" src="https://github.com/user-attachments/assets/09885dfd-3692-41bb-89e3-1f814fd40bfa" />
+
+<p> 
+<img width="491" height="380" alt="Screenshot 2025-11-05 at 1 45 24 PM" src="https://github.com/user-attachments/assets/82be9678-42e4-4409-911a-cb3bfd414799" />
+
+</p>
+
+
+<img width="490" height="381" alt="Screenshot 2025-11-05 at 1 45 54 PM" src="https://github.com/user-attachments/assets/292b5a71-e405-4a68-99e8-4d3cd17d12dc" />
+
+<p>
+<img width="489" height="380" alt="Screenshot 2025-11-05 at 1 46 24 PM" src="https://github.com/user-attachments/assets/45fe2933-f479-4ec2-bd6f-9e9a52770b21" />
+
+</p>
+<img width="491" height="381" alt="Screenshot 2025-11-05 at 1 46 56 PM" src="https://github.com/user-attachments/assets/37d2a034-7f72-4dfc-9392-b84dc5eca558" />
+
 
 
 
