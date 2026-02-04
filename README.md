@@ -246,7 +246,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="590" height="462" alt="Screenshot 2025-11-05 at 4 58 02 PM" src="https://github.com/user-attachments/assets/f70b29fa-c5d5-49c2-a674-a5639833b47b" />
 <img width="592" height="456" alt="Screenshot 2025-11-05 at 4 58 19 PM" src="https://github.com/user-attachments/assets/6ff8bc79-1f9e-44b2-8469-d52c50d7fb9e" />
 <img width="593" height="460" alt="Screenshot 2025-11-05 at 4 59 16 PM" src="https://github.com/user-attachments/assets/81a04762-e203-4a8a-a2e1-a22f9a0b36d6" />
-
+<img width="594" height="457" alt="Screenshot 2025-11-05 at 4 59 31 PM" src="https://github.com/user-attachments/assets/679a2e98-765b-4cbc-8cb5-03cedb911c30" />
+<img width="594" height="458" alt="Screenshot 2025-11-05 at 5 00 00 PM" src="https://github.com/user-attachments/assets/1ec8d80d-9d72-4528-ab12-6bdb48781c05" />
+<p>
+<img width="378" height="446" alt="Screenshot 2025-11-05 at 5 01 13 PM" src="https://github.com/user-attachments/assets/096c44b2-9a8c-44a4-9809-5688e0210792" />
+  </p>
+  <img width="674" height="477" alt="Screenshot 2025-11-05 at 6 34 23 PM" src="https://github.com/user-attachments/assets/2c6c7769-75f0-4b4c-861a-fe5434e8ee3a" />
+<img width="674" height="474" alt="Screenshot 2025-11-05 at 6 35 01 PM" src="https://github.com/user-attachments/assets/a20a8274-838b-43a6-ba2f-b8b7c6be1036" />
+<img width="932" height="588" alt="Screenshot 2025-11-05 at 6 35 56 PM" src="https://github.com/user-attachments/assets/db8b1fe1-f25b-4d5c-8b9d-0e51112aade4" />
+<img width="312" height="254" alt="Screenshot 2025-11-05 at 6 36 31 PM" src="https://github.com/user-attachments/assets/3a64abd1-c324-40ba-99b0-fab0b6974c17" />
+<p>
+<img width="689" height="368" alt="Screenshot 2025-11-05 at 7 44 00 PM" src="https://github.com/user-attachments/assets/92e125ca-07f9-43bf-b46a-1c3f955969a7" />
+  </p>
+  <img width="611" height="636" alt="Screenshot 2025-11-05 at 7 45 19 PM" src="https://github.com/user-attachments/assets/13e129d2-bb27-48e2-ae72-47ad4a3dcc76" />
+  
 
 
 
