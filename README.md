@@ -199,6 +199,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="573" height="687" alt="Screenshot 2026-02-04 at 2 54 18 PM" src="https://github.com/user-attachments/assets/53100a2a-e661-4422-8e84-88bfe0d0ac9c" />
 </p>
+
+<p>
+<img width="360" height="414" alt="Screenshot 2025-11-05 at 4 30 15 PM" src="https://github.com/user-attachments/assets/bea5dff6-7dfa-4164-a2d4-7fd4561bda1c" />
+</p>
+
+<img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
+<p>
+<img width="417" height="561" alt="Screenshot 2025-11-05 at 4 36 07 PM" src="https://github.com/user-attachments/assets/64daacf1-c311-4b37-83b0-ab7cd6c64949" />
+</p>
+<img width="426" height="250" alt="Screenshot 2025-11-05 at 4 36 30 PM" src="https://github.com/user-attachments/assets/4ee84410-98f6-4586-be1f-fc2c6e2029d9" />
+<p>
+
+<img width="418" height="323" alt="Screenshot 2025-11-05 at 4 36 49 PM" src="https://github.com/user-attachments/assets/5161de3a-8078-493c-8cd4-5860c684a7db" />
+</p>
+
+<img width="403" height="71" alt="Screenshot 2025-11-05 at 4 38 32 PM" src="https://github.com/user-attachments/assets/24205e9a-c0c4-4186-a759-d75e79498763" />
+
+
+
+
   
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
