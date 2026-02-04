@@ -185,6 +185,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <img width="613" height="299" alt="Screenshot 2025-11-05 at 2 12 34 PM" src="https://github.com/user-attachments/assets/59b319e0-fbcf-4484-95b9-507fdb783555" />
 <img width="608" height="446" alt="Screenshot 2025-11-05 at 2 13 34 PM" src="https://github.com/user-attachments/assets/fedbb361-faa5-421f-90d8-7bbdc113619f" />
+<img width="1433" height="343" alt="Screenshot 2026-02-03 at 12 22 33 PM" src="https://github.com/user-attachments/assets/8f611a62-60aa-4511-94d9-10d087e899c2" />
   
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
