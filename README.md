@@ -46,26 +46,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Task 1 Create the Virtual Machine(VM)                                                                       
 - Task 2 Log into the Virtual Machine(VM) with Remote Desktop
-- Task 3
-- Task 4
-- Task 5
-- Task 6
-- Task 7
-- Task 8
-- Task 9
-- Task 10
-- Task 11
-- Task 12
-- Task 13
-- Task 14
-- Task 15
-- Task 16
-- Task 17
-- Task 18
-- Task 19
-
-  <h2></h2>
-
+- Task 3 Download osTicket-Installation Files(Within VM)
+- Task 4 Install & Enable IIS in Windows with CGI
+- Task 5 Install PHP Manager for IIS
+- Task 6 Install the Rewrite Module
+- Task 7 Create the Directory C:\PHP
+- Task 8 Unzip PHP from osTicket-Installation Filesinto C:\PHP folder 
+- Task 9 Install VC_redist.x86.exe.
+- Task 10 Install MySQL 5.5.62
+- Task 11 Open IIS as an Admin
+- Task 12 Register PHP from within IIS
+- Task 13 Reload IIS
+- Task 14 Install osTicket v1.15.8
+- Task 15 Reload IIS
+- Task 16 From Sites→Default→osTicket Browse "*.80"
+- Task 17 Enable Extensions
+- Task 18 Rename: ost-config.php
+- Task 19 Assign Permissions: ost-config.php
+- Task 20 Continue osTicket setup in Browser
+- Task 21 Install HeidiSQL
+- Task 22 Continue osTicket setup in Browser
+- Task 23 Setup Completed
+    <h2> _____________________________________________________________________</h2>
   
   <p>
  **Task 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to the **image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**. Scroll down to fill in the **"Username"** and **"Password"** section with something that's easy to remember. Be sure to click the **checkmark** under the licensing section and click **review + create**. To deploy the Virtual Machine, click **Create**. The Virtual Machine is created and ready for use.
