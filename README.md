@@ -96,9 +96,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 
 <p>
-
-**Task 3** - Click Microsoft Edge to open up the web browser inside of the VM(osTicket). 
-            **Step 1** From here, Copy and Paste this URL→ osTicket-Installation-Files.zip to download the installation files and unzip them onto the desktop.
+Task 3
+            Step 1- Click Microsoft Edge to open up the web browser inside of the VM(osTicket). 
+            Step 2 - Copy and Paste this link→ osTicket-Installation-Files.zip into the brower and click (GO/ENTER) to search.
+            Step 3-  Once the installation file comes up in the browser select "Download Anyway" and unzip it onto the desktop. 
 </p>
 
 
