@@ -143,13 +143,28 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 49 46 PM" src="https://github.com/user-attachments/assets/3b7d192f-9888-4d13-9c15-d0fd774e2374" />
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 51 18 PM" src="https://github.com/user-attachments/assets/27f5a98a-3e21-4bcf-8992-55a790932f7f" />
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 52 40 PM" src="https://github.com/user-attachments/assets/5a6e991e-e2f6-4da2-814d-8c6f538ff62c" />
+  <p>
+
+**Task 5**
+      
+  </p>
   <img width="448" height="738" alt="Screenshot 2025-10-28 at 6 09 36 PM" src="https://github.com/user-attachments/assets/88ef9ed6-1b7c-4f12-a517-f148e1434c2f" />
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 12 05 PM" src="https://github.com/user-attachments/assets/25a06cf4-6fc4-4651-bf3a-a4adf91b925d" />
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 12 27 PM" src="https://github.com/user-attachments/assets/6d44c604-7711-4eef-bc20-9f1eddfefad1" />
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 13 02 PM" src="https://github.com/user-attachments/assets/47ed0e25-da4d-43d3-aa3e-ce901cae2374" />
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 13 40 PM" src="https://github.com/user-attachments/assets/cc0be937-8087-4fc9-97ee-670109b6cba8" />
+  <p>
+
+**Task 6**
+      
+  </p>
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 14 21 PM" src="https://github.com/user-attachments/assets/a9e813c7-6b97-49a8-88f7-ffa99583e2ab" />
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 14 42 PM" src="https://github.com/user-attachments/assets/02c28c66-92c3-498d-8d6a-3ad1ef2ccd64" />
+  <p>
+
+**Task 7**
+      
+  </p>
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 21 34 PM" src="https://github.com/user-attachments/assets/f9913afb-15ba-40a4-b790-d67171b11736" />
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 22 41 PM" src="https://github.com/user-attachments/assets/e6bf4ab8-1e65-42ba-b305-bfe0eba5c34d" />
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 22 22 PM" src="https://github.com/user-attachments/assets/b8674570-7309-48e2-8b00-a96cef659164" />
