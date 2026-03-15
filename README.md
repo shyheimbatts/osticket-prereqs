@@ -129,6 +129,14 @@ Step 6- Confirm that the file is extracting onto the desktop→osTicket-Installa
 Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual extracted folder on the desktop.
 </p>
 <img width="1440" height="900" alt="Screenshot 2025-10-20 at 11 20 33 PM" src="https://github.com/user-attachments/assets/5bd5f98d-948a-4c4d-ae31-372021cae0f3" />
+
+<p>
+
+    
+ **Task 4**
+
+</p>
+
   <img width="312" height="108" alt="Screenshot 2025-10-21 at 7 47 37 PM" src="https://github.com/user-attachments/assets/01fa9c5c-65f3-4557-b41e-206b000ac61e" />
   <img width="1115" height="579" alt="Screenshot 2025-10-21 at 7 48 29 PM" src="https://github.com/user-attachments/assets/517d708c-ae51-426e-b69e-bf086e34f071" />
    <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 49 24 PM" src="https://github.com/user-attachments/assets/d11ac809-631d-4f73-a4b8-c94a58b61512" />
