@@ -95,44 +95,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 <p>
 Task 3
-    
-<P>
-    Step 1 - Click Microsoft Edge to open up the web browser inside of the VM(osTicket). 
-    <p>
-            Step 2 - Copy and Paste this link→ osTicket-Installation-Files.zip into the brower and click (GO/ENTER) to search.
-</p>
-<p>
-            Step 3 - Once the installation file comes up in the browser select "Download Anyway" and unzip it onto the desktop. 
-    </p>
-   <p>
-       
-Step 4 - Once the file downloads select the folder icon to open it up, Drag the file from the "Dwnloads" folder onto the desktop.
-   </p> 
-   <p>
-       
-   Step 5 - Right click the file and extract all, Confirm that the file is extracting into the desktop→osTicket-Installation-Files folder.
-</p>
-            Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual extracted folder on the desktop.
-              
+            
 </p>
 
 
 <p>
+    <P>
+    Step 1 - Click Microsoft Edge to open up the web browser inside of the VM(osTicket).
 <img width="629" height="776" alt="Screenshot 2026-01-22 at 1 14 25 PM" src="https://github.com/user-attachments/assets/3c839b58-ecfe-4d32-a4aa-d4aca8101eca" />
-<img width="676" height="196" alt="Screenshot 2025-10-20 at 11 08 14 PM" src="https://github.com/user-attachments/assets/74730ace-83bd-41e7-b104-fd1d78c695b3" />
-<img width="356" height="131" alt="Screenshot 2025-10-20 at 11 09 50 PM" src="https://github.com/user-attachments/assets/686e3420-f5d0-4008-9139-fb4fe1deef10" />
-<img width="1119" height="579" alt="Screenshot 2025-10-20 at 11 10 41 PM" src="https://github.com/user-attachments/assets/cbfaebea-d61c-4b2a-a182-8e04c8e304a1" />
-<img width="345" height="505" alt="Screenshot 2025-10-20 at 11 17 22 PM" src="https://github.com/user-attachments/assets/a964643a-d212-4b70-a274-51c7ff48d12e" />
-  
-</p>
-
-
+ <p>
+            Step 2 - Copy and Paste this link→ osTicket-Installation-Files.zip into the brower and click (GO/ENTER) to search. Once the installation file comes up in the browser select "Download Anyway." 
  </p>
+<img width="676" height="196" alt="Screenshot 2025-10-20 at 11 08 14 PM" src="https://github.com/user-attachments/assets/74730ace-83bd-41e7-b104-fd1d78c695b3" />
+<p>
+            Step 3 - Select open file to open up the folder where the file is located.
+ </p>    
+<img width="356" height="131" alt="Screenshot 2025-10-20 at 11 09 50 PM" src="https://github.com/user-attachments/assets/686e3420-f5d0-4008-9139-fb4fe1deef10" />
+ <p>
+     Step 4 - Drag the osTicket-Installation-Files onto the desktop.
+</p>
+<img width="1119" height="579" alt="Screenshot 2025-10-20 at 11 10 41 PM" src="https://github.com/user-attachments/assets/cbfaebea-d61c-4b2a-a182-8e04c8e304a1" />
+ <p>
+     Step 5 - Right click the file and  select extract all.
+</p>
+<img width="345" height="505" alt="Screenshot 2025-10-20 at 11 17 22 PM" src="https://github.com/user-attachments/assets/a964643a-d212-4b70-a274-51c7ff48d12e" />
+  </p>
 
-  
-
-  <img width="608" height="447" alt="Screenshot 2025-10-20 at 11 18 54 PM" src="https://github.com/user-attachments/assets/4f5a1709-800d-4557-8593-c84bd26f6555" />
-  <img width="1440" height="900" alt="Screenshot 2025-10-20 at 11 20 33 PM" src="https://github.com/user-attachments/assets/5bd5f98d-948a-4c4d-ae31-372021cae0f3" />
+  <p>
+Step 6- Confirm that the file is extracting onto the desktop→osTicket-Installation-Files folder.
+ </p>
+ <img width="608" height="447" alt="Screenshot 2025-10-20 at 11 18 54 PM" src="https://github.com/user-attachments/assets/4f5a1709-800d-4557-8593-c84bd26f6555" />
+<p>
+Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual extracted folder on the desktop.
+</p>
+<img width="1440" height="900" alt="Screenshot 2025-10-20 at 11 20 33 PM" src="https://github.com/user-attachments/assets/5bd5f98d-948a-4c4d-ae31-372021cae0f3" />
   <img width="312" height="108" alt="Screenshot 2025-10-21 at 7 47 37 PM" src="https://github.com/user-attachments/assets/01fa9c5c-65f3-4557-b41e-206b000ac61e" />
   <img width="1115" height="579" alt="Screenshot 2025-10-21 at 7 48 29 PM" src="https://github.com/user-attachments/assets/517d708c-ae51-426e-b69e-bf086e34f071" />
    <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 49 24 PM" src="https://github.com/user-attachments/assets/d11ac809-631d-4f73-a4b8-c94a58b61512" />
