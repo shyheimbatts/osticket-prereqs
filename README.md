@@ -94,7 +94,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <img width="707" height="643" alt="Screenshot 2026-01-22 at 12 52 21 PM" src="https://github.com/user-attachments/assets/55e15039-89cd-4e28-8a4e-6f260fa831a2" />
  
 <p>
-Task 3
+
+  **Task 3**
             
 </p>
 
