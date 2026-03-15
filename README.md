@@ -93,13 +93,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <img width="710" height="641" alt="Screenshot 2026-01-22 at 12 51 56 PM" src="https://github.com/user-attachments/assets/544cb94b-3e49-4e63-8590-fe79a4f28745" />
   <img width="707" height="643" alt="Screenshot 2026-01-22 at 12 52 21 PM" src="https://github.com/user-attachments/assets/55e15039-89cd-4e28-8a4e-6f260fa831a2" />
  
-  
-
 <p>
 Task 3
-            Step 1- Click Microsoft Edge to open up the web browser inside of the VM(osTicket). 
+    
+<P>
+    Step 1 - Click Microsoft Edge to open up the web browser inside of the VM(osTicket). 
+    <p>
             Step 2 - Copy and Paste this link→ osTicket-Installation-Files.zip into the brower and click (GO/ENTER) to search.
-            Step 3-  Once the installation file comes up in the browser select "Download Anyway" and unzip it onto the desktop. 
+</p>
+<p>
+            Step 3 - Once the installation file comes up in the browser select "Download Anyway" and unzip it onto the desktop. 
+    </p>
+   <p>
+       
+Step 4 - Once the file downloads select the folder icon to open it up, Drag the file from the "Dwnloads" folder onto the desktop.
+   </p> 
+   <p>
+       
+   Step 5 - Right click the file and extract all, Confirm that the file is extracting into the desktop→osTicket-Installation-Files folder.
+</p>
+            Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual extracted folder on the desktop.
+              
 </p>
 
 
