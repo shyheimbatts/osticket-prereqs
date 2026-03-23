@@ -134,7 +134,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
     
- **Task 4**
+ **Task 4-**
 
 <p>
    Start by clicking the start menu within the (VM-Virtual Machine), Type/Search "Control Panel" and select it from the drop down list. From there, under the programs section click "Uninstall a program." Next, select "Turn windows features on or off" which will bring you to a drop down menu where you need to check the box next to "Internet Information Services-IIS." From this point, use the + sign to expand the selections under Internet Information Services → World Wide Web Services → Application Development Features and check the box next to "CGI" and click ok to install the web server.
