@@ -136,6 +136,12 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
     
  **Task 4**
 
+<p>
+   Start by clicking the start menu within the (VM-Virtual Machine), Type/Search "Control Panel" and select it from the drop down list. From there, under the programs section click uninstall a program.
+</p>
+
+ 
+
 </p>
 
   <img width="312" height="108" alt="Screenshot 2025-10-21 at 7 47 37 PM" src="https://github.com/user-attachments/assets/01fa9c5c-65f3-4557-b41e-206b000ac61e" />
