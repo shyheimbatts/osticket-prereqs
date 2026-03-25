@@ -155,7 +155,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 **Task 5-**
 
 <p>
-    Start with going inside the osTicket Installation files to find and select PHP Manager and begin the installation process.
+    Start with going inside the osTicket Installation files folder to find and select PHP Manager and begin the installation process.
 </p>
       
   </p>
@@ -167,6 +167,10 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <p>
 
 **Task 6**
+
+<p>
+    From with the osTicket Installation file folder select the Rewrite Module(rewrite_amd64_en-US.msi) to accept the terms in the license agreement and then Install it.
+</p>
       
   </p>
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 14 21 PM" src="https://github.com/user-attachments/assets/a9e813c7-6b97-49a8-88f7-ffa99583e2ab" />
