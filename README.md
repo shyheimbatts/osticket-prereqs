@@ -152,7 +152,11 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <img width="1440" height="900" alt="Screenshot 2025-10-21 at 7 52 40 PM" src="https://github.com/user-attachments/assets/5a6e991e-e2f6-4da2-814d-8c6f538ff62c" />
   <p>
 
-**Task 5**
+**Task 5-**
+
+<p>
+    Start with going inside the osTicket Installation files to find and select PHP Manager and begin the installation process.
+</p>
       
   </p>
   <img width="448" height="738" alt="Screenshot 2025-10-28 at 6 09 36 PM" src="https://github.com/user-attachments/assets/88ef9ed6-1b7c-4f12-a517-f148e1434c2f" />
