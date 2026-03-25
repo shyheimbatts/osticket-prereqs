@@ -180,12 +180,21 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 **Task 7-**
 
 <p>
-    start wi
+    Click the manila folder tab on the home screen, and select file explorer to open a new folder. From the (Windows C Drive) Right click your mouse to create a new folder called PHP.
 </p>
       
-  </p>
+  <p>
+<img width="175" height="351" alt="Screenshot 2026-03-25 at 12 13 06 AM" src="https://github.com/user-attachments/assets/88fe7cb0-bc50-406d-883a-0736f0d2c18c" />
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 21 34 PM" src="https://github.com/user-attachments/assets/f9913afb-15ba-40a4-b790-d67171b11736" />
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 22 41 PM" src="https://github.com/user-attachments/assets/e6bf4ab8-1e65-42ba-b305-bfe0eba5c34d" />
+  </p>
+
+  <p>
+      
+**Task 8-** 
+      
+  </p>
+
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 22 22 PM" src="https://github.com/user-attachments/assets/b8674570-7309-48e2-8b00-a96cef659164" />
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 22 56 PM" src="https://github.com/user-attachments/assets/c7b576e6-77cd-4dad-b129-52fedd860245" />
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 25 05 PM" src="https://github.com/user-attachments/assets/fd402bc7-823b-4429-92f9-426dd4650a4e" />
