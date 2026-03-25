@@ -166,7 +166,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 13 40 PM" src="https://github.com/user-attachments/assets/cc0be937-8087-4fc9-97ee-670109b6cba8" />
   <p>
 
-**Task 6**
+**Task 6-**
 
 <p>
     From with the osTicket Installation file folder select the Rewrite Module(rewrite_amd64_en-US.msi) to accept the terms in the license agreement and then Install it.
@@ -177,7 +177,11 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 14 42 PM" src="https://github.com/user-attachments/assets/02c28c66-92c3-498d-8d6a-3ad1ef2ccd64" />
   <p>
 
-**Task 7**
+**Task 7-**
+
+<p>
+    start wi
+</p>
       
   </p>
 <img width="1440" height="900" alt="Screenshot 2025-10-28 at 6 21 34 PM" src="https://github.com/user-attachments/assets/f9913afb-15ba-40a4-b790-d67171b11736" />
