@@ -369,7 +369,26 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="302" height="139" alt="Screenshot 2026-04-07 at 4 24 28 PM" src="https://github.com/user-attachments/assets/12d9c0da-f0d9-4e76-a42e-3e8d5172cc63" />
 </p>
 
+<p>
 
+**Step 3-** Within "c:\inetpub\wwwroot", Rename "upload" to "osTicket"
+    
+</p>
+
+<p>
+<img width="179" height="268" alt="Screenshot 2026-04-07 at 4 32 59 PM" src="https://github.com/user-attachments/assets/8242008a-c826-4721-9fd2-b862de17f628" />
+</p>
+<p>
+<img width="426" height="250" alt="Screenshot 2025-11-05 at 4 36 30 PM" src="https://github.com/user-attachments/assets/4ee84410-98f6-4586-be1f-fc2c6e2029d9" />
+</p>
+
+
+<p>
+
+**Task 15-**
+
+    
+</p>
 
 <img width="1433" height="343" alt="Screenshot 2026-02-03 at 12 22 33 PM" src="https://github.com/user-attachments/assets/8f611a62-60aa-4511-94d9-10d087e899c2" />
 <img width="1063" height="547" alt="Screenshot 2025-11-05 at 4 19 23 PM" src="https://github.com/user-attachments/assets/98c8dd9f-dee9-43f6-9315-abc6d4b63d1e" />
