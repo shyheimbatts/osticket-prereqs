@@ -263,9 +263,10 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Step 3-** Start by selecting Standard Configuration for the configuration type and click Next. For the windows option, leave everything as is and click Next.
+**Step 3-** Start by selecting Standard Configuration for the configuration type and click Next. For the windows option, leave everything as is and click Next. Select modify security settings as the security option and use "root" as the password/user and click Next. Lastly, Click execute and finish to complete.
 
-    
+<p>
+(The password/user scenario should only be used as an example for the lab as a way to remember the login information..Never in real work related task.)
 </p>
 
 </p>
