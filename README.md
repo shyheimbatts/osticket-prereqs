@@ -395,18 +395,44 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 16-** Go to sites→Default Web Site→osTicket
+**Task 16-** With (IIS) on the left hand side of the screen click the dropdown menu next to osticket-vm and select Sites→Default Web Site→osTicket
 <p>
-    - On the right, click "Browse *:80" and the browser should open up the osTicket Website.
+    - Then on the right, click "Browse *:80" and the browser should open up the osTicket Website.
 </p>
     
 </p>
 <img width="1063" height="547" alt="Screenshot 2025-11-05 at 4 19 23 PM" src="https://github.com/user-attachments/assets/98c8dd9f-dee9-43f6-9315-abc6d4b63d1e" />
 <img width="702" height="824" alt="Screenshot 2025-11-05 at 4 21 02 PM" src="https://github.com/user-attachments/assets/236121a6-d320-4d0b-82c5-b5b3cbea2081" />
+
+
+<p>
+
+**Task 17-** Notice how some of the extensions are not enabled on the osTicket website. 
+
+<p>
+    
+**Step 1-** Go back to IIS, Sites→Default Web Site→osTicket and double click PHP Manager.
+
+</p>
+
+
+</p>
+
 <img width="508" height="816" alt="Screenshot 2025-11-05 at 4 24 46 PM" src="https://github.com/user-attachments/assets/ba3e8069-98c7-473a-850d-0578ad60d122" />
+
+<p>
+
+**Step 2-** Click "Enable or disable an extension"
+    
+</p>
 <img width="506" height="698" alt="Screenshot 2025-11-05 at 4 25 21 PM" src="https://github.com/user-attachments/assets/043b20cf-1722-4ad9-a1cc-346a89498c86" />
 <p>
-  
+
+ <p>
+
+**Step 3-** Enable: php_imap.dll and php_intl.dll
+     
+ </p> 
 
 <img width="352" height="144" alt="Screenshot 2025-11-05 at 4 27 34 PM" src="https://github.com/user-attachments/assets/5adf8791-9f50-4ce4-9c02-b17e3e4fb476" />
 </p>
@@ -416,10 +442,21 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 </p>
 
 <p>
-<img width="360" height="414" alt="Screenshot 2025-11-05 at 4 30 15 PM" src="https://github.com/user-attachments/assets/bea5dff6-7dfa-4164-a2d4-7fd4561bda1c" />
+
+**Step 4-** Refresh the osTicket site in your browser, observe the changes.
+    
 </p>
 
 
+<p>
+<img width="360" height="414" alt="Screenshot 2025-11-05 at 4 30 15 PM" src="https://github.com/user-attachments/assets/bea5dff6-7dfa-4164-a2d4-7fd4561bda1c" />
+</p>
+
+<p>
+
+**Task 18-**
+    
+</p>
 
 <img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
 <p>
