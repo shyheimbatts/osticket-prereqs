@@ -454,10 +454,15 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 18-** Rename: ost-config.php
+**Task 18-** Rename: ost-config.php.
+
+**Step 1-** Start by opening File explorer → Windows (C:) → Inetpub folder → wwwroot → osTicket → include.
 
 </p>
 
+<p>
+<img width="172" height="63" alt="Screenshot 2026-04-07 at 5 29 13 PM" src="https://github.com/user-attachments/assets/2d0c6e82-30b1-47cb-9732-28c1021ab69b" />
+</p>
 <img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
 <p>
 <img width="417" height="561" alt="Screenshot 2025-11-05 at 4 36 07 PM" src="https://github.com/user-attachments/assets/64daacf1-c311-4b37-83b0-ab7cd6c64949" />
@@ -467,6 +472,8 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <img width="418" height="323" alt="Screenshot 2025-11-05 at 4 36 49 PM" src="https://github.com/user-attachments/assets/5161de3a-8078-493c-8cd4-5860c684a7db" />
 </p>
+
+**Step 2-** Rename ost-sampleconfig.php to ost-config.php
 
 <p>
  - From: C:\inetpub\wwwwroot\osTicket\include\ost-sampleconfig.php
@@ -478,6 +485,12 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
     
  <img width="263" height="24" alt="Screenshot 2025-11-05 at 4 39 28 PM" src="https://github.com/user-attachments/assets/1d5bb86d-07fd-4c00-80f0-6ccc0c2fa778" />
+</p>
+
+<p>
+
+**Task 19-**
+    
 </p>
 <img width="435" height="133" alt="Screenshot 2025-11-05 at 4 40 18 PM" src="https://github.com/user-attachments/assets/e917dcfe-38cc-4b65-aee6-2af74b5d319f" />
 
