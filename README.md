@@ -285,7 +285,22 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="496" height="374" alt="Screenshot 2025-11-05 at 1 54 38 PM" src="https://github.com/user-attachments/assets/6b92e71b-31d0-4ddb-b6c7-b92ce22435be" />
 <p>
 
-**Task 11-**
+**Task 11-** OPEN Internet Information Services(IIS) as an Admin↓
+
+<p>
+    
+**Step 1-** Begin by clicking the start menu and type in IIS. Then, right click it and run as administrator
+
+
+</p>
+
+
+</p>
+
+<p>
+
+**Step 2-** Register PHP from within IIS (PHP Manager → C:\PHP\php-cgi.exe)↓
+
     
 </p>
 <img width="770" height="775" alt="Screenshot 2025-11-05 at 1 58 31 PM" src="https://github.com/user-attachments/assets/bbea5365-9757-4b0d-b6f3-2464008c921b" />
