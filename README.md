@@ -192,7 +192,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <p>
       
 **Task 8-** 
-      From the osTicket-Installation-Files folder, Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the "C:\PHP" Folder. Start by right clicking (php-7.3.8-nts-Win32-VC15-x86.zip) and selecting extract all. Next, Select browse to go to the "C:\PHP" Folder and click select folder. Once the PHP folder is selected click "Extract" and the task is completed.
+      From the "osTicket-Installation-Files" folder, Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the "C:\PHP" Folder. Start by right clicking (php-7.3.8-nts-Win32-VC15-x86.zip) and selecting extract all. Next, Select browse to go to the "C:\PHP" Folder and click select folder. Once the PHP folder is selected click "Extract" and the task is completed.
       
  
   </p>
@@ -206,6 +206,8 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
 **Task 9-**
+      From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe. Start by double clicking VC_redist.x86.exe, check the "I agree to the license terms and conditions" box and Select Install.
+
     
 </p>
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 30 02 PM" src="https://github.com/user-attachments/assets/7efbfd16-8cfb-4117-b0f3-18aef649f4cb" />
