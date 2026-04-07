@@ -222,6 +222,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
 **Task 10-**
+       From the "osTicket-Installation-Files" folder, install MySQL 5.5.62. Double clicking MySQL 5.5.62 within the "osTicket-Installation-Files" folder to begin the installation process. CLick next to begin, Be sure to check the "I accept the terms in the license agreement" box, as well as selecting Next. The setup type should be set at "Typical."
     
 </p>
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 39 48 PM" src="https://github.com/user-attachments/assets/67ac7fbf-e442-4f59-a6d1-e28b86b365b5" />
