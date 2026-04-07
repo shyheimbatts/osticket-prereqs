@@ -338,7 +338,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
     
-**Step1-** From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" by
+**Step1-** From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" by right clicking and selecting extract all. Then click Extact.
 
 </p>
 
@@ -348,6 +348,14 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <img width="613" height="299" alt="Screenshot 2025-11-05 at 2 12 34 PM" src="https://github.com/user-attachments/assets/59b319e0-fbcf-4484-95b9-507fdb783555" />
 <img width="608" height="446" alt="Screenshot 2025-11-05 at 2 13 34 PM" src="https://github.com/user-attachments/assets/fedbb361-faa5-421f-90d8-7bbdc113619f" />
+
+<p>
+
+**Step 2-** Open the osTicket    
+
+</p>
+
+
 <img width="1433" height="343" alt="Screenshot 2026-02-03 at 12 22 33 PM" src="https://github.com/user-attachments/assets/8f611a62-60aa-4511-94d9-10d087e899c2" />
 <img width="1063" height="547" alt="Screenshot 2025-11-05 at 4 19 23 PM" src="https://github.com/user-attachments/assets/98c8dd9f-dee9-43f6-9315-abc6d4b63d1e" />
 <img width="702" height="824" alt="Screenshot 2025-11-05 at 4 21 02 PM" src="https://github.com/user-attachments/assets/236121a6-d320-4d0b-82c5-b5b3cbea2081" />
