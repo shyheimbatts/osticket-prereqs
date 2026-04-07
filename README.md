@@ -246,7 +246,13 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
  <img width="315" height="226" alt="Screenshot 2026-04-07 at 12 22 06 PM" src="https://github.com/user-attachments/assets/2dcb5957-d6b7-4a93-8d6c-99de34db7a2b" />
 </p>
 
-Step 2- After the installation, check the box to "Launch the MySQL Instance Configuration Wizard."
+<p>
+
+    
+**Step 2-** After the installation, check the box to "Launch the MySQL Instance Configuration Wizard."
+
+</p>
+    
 <img width="491" height="381" alt="Screenshot 2025-11-05 at 1 46 56 PM" src="https://github.com/user-attachments/assets/37d2a034-7f72-4dfc-9392-b84dc5eca558" />
 <p>
  <img width="315" height="230" alt="Screenshot 2026-04-07 at 12 25 34 PM" src="https://github.com/user-attachments/assets/3bebf462-73b8-4bdf-adb5-3ca9661b75c1" />
