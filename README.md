@@ -355,6 +355,20 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 </p>
 
+<img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
+<p>
+<img width="417" height="561" alt="Screenshot 2025-11-05 at 4 36 07 PM" src="https://github.com/user-attachments/assets/64daacf1-c311-4b37-83b0-ab7cd6c64949" />
+</p>
+<img width="426" height="250" alt="Screenshot 2025-11-05 at 4 36 30 PM" src="https://github.com/user-attachments/assets/4ee84410-98f6-4586-be1f-fc2c6e2029d9" />
+<p>
+
+<img width="418" height="323" alt="Screenshot 2025-11-05 at 4 36 49 PM" src="https://github.com/user-attachments/assets/5161de3a-8078-493c-8cd4-5860c684a7db" />
+</p>
+
+
+
+
+
 
 <img width="1433" height="343" alt="Screenshot 2026-02-03 at 12 22 33 PM" src="https://github.com/user-attachments/assets/8f611a62-60aa-4511-94d9-10d087e899c2" />
 <img width="1063" height="547" alt="Screenshot 2025-11-05 at 4 19 23 PM" src="https://github.com/user-attachments/assets/98c8dd9f-dee9-43f6-9315-abc6d4b63d1e" />
@@ -375,15 +389,9 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="360" height="414" alt="Screenshot 2025-11-05 at 4 30 15 PM" src="https://github.com/user-attachments/assets/bea5dff6-7dfa-4164-a2d4-7fd4561bda1c" />
 </p>
 
-<img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
-<p>
-<img width="417" height="561" alt="Screenshot 2025-11-05 at 4 36 07 PM" src="https://github.com/user-attachments/assets/64daacf1-c311-4b37-83b0-ab7cd6c64949" />
-</p>
-<img width="426" height="250" alt="Screenshot 2025-11-05 at 4 36 30 PM" src="https://github.com/user-attachments/assets/4ee84410-98f6-4586-be1f-fc2c6e2029d9" />
-<p>
+Here
 
-<img width="418" height="323" alt="Screenshot 2025-11-05 at 4 36 49 PM" src="https://github.com/user-attachments/assets/5161de3a-8078-493c-8cd4-5860c684a7db" />
-</p>
+
 
 <img width="403" height="71" alt="Screenshot 2025-11-05 at 4 38 32 PM" src="https://github.com/user-attachments/assets/24205e9a-c0c4-4186-a759-d75e79498763" />
 <p>
