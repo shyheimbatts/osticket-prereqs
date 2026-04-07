@@ -523,7 +523,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Step 4-** Add New Permissions → Select Principal → Type in Everyone → Check Names → Select OK → Check next to Full Control → Select OK.
+**Step 4-** Click Add to Add New Permissions → Select Principal → Type in Everyone → Check Names → Select OK → Check next to Full Control → Select OK.
 
 </p>
 
@@ -531,9 +531,22 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="401" height="149" alt="Screenshot 2025-11-05 at 4 43 10 PM" src="https://github.com/user-attachments/assets/6fc4cb6c-d894-4f4e-b963-fe670a1bd1e0" />
 <p>
 <img width="456" height="282" alt="Screenshot 2025-11-05 at 4 44 34 PM" src="https://github.com/user-attachments/assets/1f99b47b-5fa2-427c-b9dc-c6cb657da004" />
-  </p>
-  <img width="907" height="585" alt="Screenshot 2025-11-05 at 4 46 12 PM" src="https://github.com/user-attachments/assets/93595a28-d0d8-4462-8710-f60dd8affac1" />
+</p>
+<img width="907" height="585" alt="Screenshot 2025-11-05 at 4 46 12 PM" src="https://github.com/user-attachments/assets/93595a28-d0d8-4462-8710-f60dd8affac1" />
+
+<p>
+
+**Step 5-** This is how it should look Allowing everyone full control, Select Apply → OK.
+
+</p>
+
 <img width="752" height="509" alt="Screenshot 2025-11-05 at 4 46 40 PM" src="https://github.com/user-attachments/assets/5c9ddb00-d469-4a43-ba2e-4bc33b990e23" />
+
+<p>
+
+**Step 6-** Finally, Select OK.
+    
+</p>
 <img width="396" height="507" alt="Screenshot 2025-11-05 at 4 47 13 PM" src="https://github.com/user-attachments/assets/630016c7-5cb9-4912-8d50-7215fe190e89" />
 <img width="710" height="826" alt="Screenshot 2025-11-05 at 4 48 17 PM" src="https://github.com/user-attachments/assets/8377aafe-7871-4039-ab17-729e809dd0eb" />
 <img width="705" height="831" alt="Screenshot 2025-11-05 at 4 52 21 PM" src="https://github.com/user-attachments/assets/285cd189-51b8-4ef3-b3a4-cdb230d6e29e" />
