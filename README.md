@@ -192,7 +192,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
   <p>
       
 **Task 8-** 
-      From the osTicket-Installation-Files folder, Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the "C:\PHP" Folder. Start by right clicking (php-7.3.8-nts-Win32-VC15-x86.zip) and selecting extract all. Next, Select browse to go to the "C:\PHP" Folder and click select folder.
+      From the osTicket-Installation-Files folder, Unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the "C:\PHP" Folder. Start by right clicking (php-7.3.8-nts-Win32-VC15-x86.zip) and selecting extract all. Next, Select browse to go to the "C:\PHP" Folder and click select folder. Once the PHP folder is selected click "Extract" and the task is completed.
       
  
   </p>
