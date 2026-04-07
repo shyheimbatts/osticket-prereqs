@@ -548,7 +548,21 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
     
 </p>
 <img width="396" height="507" alt="Screenshot 2025-11-05 at 4 47 13 PM" src="https://github.com/user-attachments/assets/630016c7-5cb9-4912-8d50-7215fe190e89" />
+
+
+<p>
+    
+**Task 20-** Go to osTicket in the browser to continue the setup (click Continue)
+    
+</p>
+
 <img width="710" height="826" alt="Screenshot 2025-11-05 at 4 48 17 PM" src="https://github.com/user-attachments/assets/8377aafe-7871-4039-ab17-729e809dd0eb" />
+
+<p>
+
+**Step 1-** Fill in the blank spaces for Helpdesk Name → Default Email → First Name → Last Name → Email Address → Username → Password.
+    
+</p>
 <img width="705" height="831" alt="Screenshot 2025-11-05 at 4 52 21 PM" src="https://github.com/user-attachments/assets/285cd189-51b8-4ef3-b3a4-cdb230d6e29e" />
 <p>
 <img width="426" height="193" alt="Screenshot 2025-11-05 at 4 55 43 PM" src="https://github.com/user-attachments/assets/ecb843a0-e599-4598-a5cd-bdfc7f3ca29e" />
