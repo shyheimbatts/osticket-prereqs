@@ -640,7 +640,13 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 22-**
+**Task 22-** Continue setting up osTicket in the browser.
+
+<p>
+
+**Step 1-** Fill the database connection information MySQL Database → MySQL Username → MySQL Password → Click "Install Now!"
+    
+</p>
 
 </p>
 
