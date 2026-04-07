@@ -321,7 +321,9 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 13-**
+**Task 13-** Reload IIS↓
+**Step 1-** (Open IIS, select Stop and after a few seconds select Start to reload the server)
+
 
 </p>
     
