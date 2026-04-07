@@ -656,7 +656,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 23-**
+**Task 23-** Setup COMPLETED!
 
     
 </p>
