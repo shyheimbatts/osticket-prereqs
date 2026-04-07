@@ -222,9 +222,11 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
 **Task 10-**
-       From the "osTicket-Installation-Files" folder, install MySQL 5.5.62. Double clicking MySQL 5.5.62 within the "osTicket-Installation-Files" folder to begin the installation process. CLick next to begin, Be sure to check the "I accept the terms in the license agreement" box, as well as selecting Next. The setup type should be set at "Typical." The next steps would be to select Install, then choose yes to allow MySQL app to make changes to the device. After the installation, check the box to "Launch the MySQL Instance Configuration Wizard."
-    
+      
+  Step 1- From the "osTicket-Installation-Files" folder, install MySQL 5.5.62. by Double clicking (mysql-5.5.62-win32.msi) to begin the installation process. Click next to begin, Be sure to check the "I accept the terms in the license agreement" box, as well as selecting Next. The setup type should be set to "Typical." Finally, select Install and then choose "Yes" to allow MySQL app to make changes to the device. (Continue below for additionally steps.)
+   
 </p>
+
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 39 48 PM" src="https://github.com/user-attachments/assets/67ac7fbf-e442-4f59-a6d1-e28b86b365b5" />
 <img width="492" height="382" alt="Screenshot 2025-11-05 at 1 45 07 PM" src="https://github.com/user-attachments/assets/09885dfd-3692-41bb-89e3-1f814fd40bfa" />
 
@@ -243,6 +245,8 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
  <img width="315" height="226" alt="Screenshot 2026-04-07 at 12 22 06 PM" src="https://github.com/user-attachments/assets/2dcb5957-d6b7-4a93-8d6c-99de34db7a2b" />
 </p>
+
+Step 2- After the installation, check the box to "Launch the MySQL Instance Configuration Wizard."
 <img width="491" height="381" alt="Screenshot 2025-11-05 at 1 46 56 PM" src="https://github.com/user-attachments/assets/37d2a034-7f72-4dfc-9392-b84dc5eca558" />
 <p>
  <img width="315" height="230" alt="Screenshot 2026-04-07 at 12 25 34 PM" src="https://github.com/user-attachments/assets/3bebf462-73b8-4bdf-adb5-3ca9661b75c1" />
