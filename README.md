@@ -335,7 +335,12 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
 **Task 14-** Install osTicket v1.15.8↓
+
+<p>
+    
 **Step1-** From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" by
+
+</p>
 
 </p>
 
