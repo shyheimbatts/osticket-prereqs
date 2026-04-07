@@ -211,6 +211,19 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
     
 </p>
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 30 02 PM" src="https://github.com/user-attachments/assets/7efbfd16-8cfb-4117-b0f3-18aef649f4cb" />
+<p>
+<img width="316" height="234" alt="Screenshot 2026-04-07 at 9 11 54 AM" src="https://github.com/user-attachments/assets/d5fae992-00fa-4a23-8255-e44540d68c25" />
+</p>
+<p>
+<img width="332" height="204" alt="Screenshot 2026-04-07 at 9 12 41 AM" src="https://github.com/user-attachments/assets/564b57dd-cd6d-4249-9e18-fe07fe970120" />
+</p>
+
+
+<p>
+
+**Task 10-**
+    
+</p>
 <img width="1440" height="900" alt="Screenshot 2025-11-05 at 1 39 48 PM" src="https://github.com/user-attachments/assets/67ac7fbf-e442-4f59-a6d1-e28b86b365b5" />
 <img width="492" height="382" alt="Screenshot 2025-11-05 at 1 45 07 PM" src="https://github.com/user-attachments/assets/09885dfd-3692-41bb-89e3-1f814fd40bfa" />
 
