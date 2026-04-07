@@ -602,7 +602,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Step 2-** Allow HeidiSQL Setup to make changes to the device by click "Yes" → I accept the agreement → Next → Next → Next → Next → Install → Launch HeidiSQL → Finish.
+**Step 3-** Allow HeidiSQL Setup to make changes to the device by click "Yes" → I accept the agreement → Next → Next → Next → Next → Install → Launch HeidiSQL → Finish → Skip
     
 </p>
 
@@ -618,15 +618,45 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="594" height="458" alt="Screenshot 2025-11-05 at 5 00 00 PM" src="https://github.com/user-attachments/assets/1ec8d80d-9d72-4528-ab12-6bdb48781c05" />
 <p>
 <img width="378" height="446" alt="Screenshot 2025-11-05 at 5 01 13 PM" src="https://github.com/user-attachments/assets/096c44b2-9a8c-44a4-9809-5688e0210792" />
-  </p>
-  <img width="674" height="477" alt="Screenshot 2025-11-05 at 6 34 23 PM" src="https://github.com/user-attachments/assets/2c6c7769-75f0-4b4c-861a-fe5434e8ee3a" />
+</p>
+
+<p>
+
+**Step 4-** Click "New" and enter "root" for both the user/password and click Open to Open a connection to the database. Next, on the left side of the screen right click Unnamed → Create New → Database.
+    
+</p>
+
+  
+<img width="674" height="477" alt="Screenshot 2025-11-05 at 6 34 23 PM" src="https://github.com/user-attachments/assets/2c6c7769-75f0-4b4c-861a-fe5434e8ee3a" />
 <img width="674" height="474" alt="Screenshot 2025-11-05 at 6 35 01 PM" src="https://github.com/user-attachments/assets/a20a8274-838b-43a6-ba2f-b8b7c6be1036" />
 <img width="932" height="588" alt="Screenshot 2025-11-05 at 6 35 56 PM" src="https://github.com/user-attachments/assets/db8b1fe1-f25b-4d5c-8b9d-0e51112aade4" />
+
+<p>
+
+**Step 5-** In the Name section type in "osTicket" and click OK.
+    
+</p>
 <img width="312" height="254" alt="Screenshot 2025-11-05 at 6 36 31 PM" src="https://github.com/user-attachments/assets/3a64abd1-c324-40ba-99b0-fab0b6974c17" />
+
+<p>
+
+**Task 22-**
+
+</p>
+
+    
 <p>
 <img width="689" height="368" alt="Screenshot 2025-11-05 at 7 44 00 PM" src="https://github.com/user-attachments/assets/92e125ca-07f9-43bf-b46a-1c3f955969a7" />
-  </p>
-  <img width="611" height="636" alt="Screenshot 2025-11-05 at 7 45 19 PM" src="https://github.com/user-attachments/assets/13e129d2-bb27-48e2-ae72-47ad4a3dcc76" />
+
+<p>
+
+**Task 23-**
+
+    
+</p>
+    
+</p>
+<img width="611" height="636" alt="Screenshot 2025-11-05 at 7 45 19 PM" src="https://github.com/user-attachments/assets/13e129d2-bb27-48e2-ae72-47ad4a3dcc76" />
   
 
 
