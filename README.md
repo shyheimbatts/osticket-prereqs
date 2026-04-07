@@ -454,8 +454,8 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 18-**
-    
+**Task 18-** Rename: ost-config.php
+
 </p>
 
 <img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
@@ -468,10 +468,16 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <img width="418" height="323" alt="Screenshot 2025-11-05 at 4 36 49 PM" src="https://github.com/user-attachments/assets/5161de3a-8078-493c-8cd4-5860c684a7db" />
 </p>
 
+<p>
+ - From: C:\inetpub\wwwwroot\osTicket\include\ost-sampleconfig.php
+</p>
 
 <img width="403" height="71" alt="Screenshot 2025-11-05 at 4 38 32 PM" src="https://github.com/user-attachments/assets/24205e9a-c0c4-4186-a759-d75e79498763" />
+
+- To: C:\inetpub\wwwwroot\osTicket\include\ost-config.php
 <p>
-  <img width="263" height="24" alt="Screenshot 2025-11-05 at 4 39 28 PM" src="https://github.com/user-attachments/assets/1d5bb86d-07fd-4c00-80f0-6ccc0c2fa778" />
+    
+ <img width="263" height="24" alt="Screenshot 2025-11-05 at 4 39 28 PM" src="https://github.com/user-attachments/assets/1d5bb86d-07fd-4c00-80f0-6ccc0c2fa778" />
 </p>
 <img width="435" height="133" alt="Screenshot 2025-11-05 at 4 40 18 PM" src="https://github.com/user-attachments/assets/e917dcfe-38cc-4b65-aee6-2af74b5d319f" />
 
