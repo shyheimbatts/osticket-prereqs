@@ -351,13 +351,17 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Step 2-** Open the osTicket-v1.15.8   
+**Step 2-** Open the osTicket-v1.15.8 Folder and copy the "upload" folder into "c:\inetpub\wwwwroot" 
 
 </p>
 
-
-
-
+<img width="303" height="389" alt="Screenshot 2026-04-07 at 4 03 26 PM" src="https://github.com/user-attachments/assets/f56e6d94-9fc2-45a7-acee-af9e0d424e56" />
+<p>
+<img width="303" height="180" alt="Screenshot 2026-04-07 at 4 17 41 PM" src="https://github.com/user-attachments/assets/9448e883-a51b-456c-9ec5-853353da57eb" />
+</p>
+<p>
+<img width="411" height="802" alt="Screenshot 2025-11-05 at 4 35 34 PM" src="https://github.com/user-attachments/assets/7e816da3-2095-407e-95fb-d902babe015d" />
+</p>
 
 
 
