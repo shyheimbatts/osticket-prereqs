@@ -249,7 +249,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
     
-**Step 2-** After the installation, check the box to "Launch the MySQL Instance Configuration Wizard."
+**Step 2-** After the installation, check the box to "Launch the MySQL Instance Configuration Wizard." Next, Allow MySQLInstanceConfig.exe to make changes to the device by choosing "Yes" as the option. To continue click Next.
 
 </p>
     
@@ -260,6 +260,13 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 <img width="494" height="374" alt="Screenshot 2025-11-05 at 1 47 13 PM" src="https://github.com/user-attachments/assets/51baa160-af8c-4ed6-95b9-c6d4d208ca1d" />
+
+<p>
+
+**Step 3-** Start by selecting Standard Configuration for the configuration type and click Next. For the windows option, leave everything as is and click Next.
+
+    
+</p>
 
 </p>
 <img width="494" height="379" alt="Screenshot 2025-11-05 at 1 47 36 PM" src="https://github.com/user-attachments/assets/e6f25384-e6f5-464a-b77e-ac351d683cc8" />
