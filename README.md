@@ -302,9 +302,14 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Step 2-** Register PHP from within IIS (PHP Manager → C:\PHP\php-cgi.exe)↓
+**Task 12-** Register PHP from within IIS (PHP Manager → C:\PHP\php-cgi.exe)↓
 
+<p>
     
+**Step 1-** Start by double clicking the PHP Manager to open it. Then, click "Register new PHP version" to browse to C:\PHP\php-cgi. Select the file and click OK. 
+
+</p>
+            
 </p>
 <img width="1061" height="599" alt="Screenshot 2025-11-05 at 2 01 22 PM" src="https://github.com/user-attachments/assets/52522aa0-6c5a-475c-ae2d-27c99d81b03a" />
 <img width="855" height="467" alt="Screenshot 2025-11-05 at 2 02 37 PM" src="https://github.com/user-attachments/assets/044c0574-2341-45e5-af77-7338baf4f70a" />
