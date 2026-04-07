@@ -489,16 +489,44 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 <p>
 
-**Task 19-**
+**Task 19-** Assign Permissions: ost-config.php, 
+
+<p>
     
+**Step 1-** Start by right clicking ost-config.php and select properties.
+
+</p>
+
+
 </p>
 <img width="435" height="133" alt="Screenshot 2025-11-05 at 4 40 18 PM" src="https://github.com/user-attachments/assets/e917dcfe-38cc-4b65-aee6-2af74b5d319f" />
 
 <p>
+
+**Step 2-** Next, click Security → Advanced.
+    
+</p>
+
+<p>
 <img width="400" height="501" alt="Screenshot 2025-11-05 at 4 40 50 PM" src="https://github.com/user-attachments/assets/4ee37c58-4a23-426f-85ac-4b48a9a4f627" />
 </p>  
+
+<p>
+    
+**Step 3-** Disable inheritance → Remove all inherited permissions from this object.
+
+</p>
+
 <img width="760" height="504" alt="Screenshot 2025-11-05 at 4 41 26 PM" src="https://github.com/user-attachments/assets/b7c063af-b56a-4ed0-8c42-15085b00883b" />
 <img width="513" height="268" alt="Screenshot 2025-11-05 at 4 42 25 PM" src="https://github.com/user-attachments/assets/a37ad889-a359-4222-96e5-a06f2782b04a" />
+
+
+<p>
+
+**Step 4-** Add New Permissions → Select Principal → Type in Everyone → Check Names → Select OK → Check next to Full Control → Select OK.
+
+</p>
+
 <img width="751" height="515" alt="Screenshot 2025-11-05 at 4 42 48 PM" src="https://github.com/user-attachments/assets/0ab6f12a-b07e-4876-bab0-3941c6d0a7a0" />
 <img width="401" height="149" alt="Screenshot 2025-11-05 at 4 43 10 PM" src="https://github.com/user-attachments/assets/6fc4cb6c-d894-4f4e-b963-fe670a1bd1e0" />
 <p>
