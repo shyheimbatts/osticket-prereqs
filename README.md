@@ -564,14 +564,53 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
     
 </p>
 <img width="705" height="831" alt="Screenshot 2025-11-05 at 4 52 21 PM" src="https://github.com/user-attachments/assets/285cd189-51b8-4ef3-b3a4-cdb230d6e29e" />
+
 <p>
+
+**Task 21-** From the "osTicket-Installation-Files" folder,install HeidiSQL
+    
+</p>
+
+
+<p>
+
+**Step 1-** Go to File Explorer → Desktop → osTicket-installation-Files → osTicket-installation-Files.
+    
+</p>
+
+    
+<p>
+<img width="172" height="63" alt="Screenshot 2026-04-07 at 5 29 13 PM" src="https://github.com/user-attachments/assets/8c906c09-0337-4281-b9ef-ae411644e8d1" />
+</p>
+<p>    
 <img width="426" height="193" alt="Screenshot 2025-11-05 at 4 55 43 PM" src="https://github.com/user-attachments/assets/ecb843a0-e599-4598-a5cd-bdfc7f3ca29e" />
-  </p>
-  <img width="417" height="197" alt="Screenshot 2025-11-05 at 4 56 54 PM" src="https://github.com/user-attachments/assets/6456ca83-3b28-42c7-b82d-0c1754906e95" />
-  <p>
+</p>
+
+<p>
+<img width="415" height="196" alt="Screenshot 2026-04-07 at 6 23 16 PM" src="https://github.com/user-attachments/assets/784bcb33-0e35-4965-ac5f-61cb4faf43ec" />
+</p> 
+
+<p>
+
+**Step 2-** Install HeidiSQL by Double Clicking HeidiSQL_12.3.0.6589_Setup
+
+</p>
+
+<p>
 <img width="419" height="209" alt="Screenshot 2025-11-05 at 4 57 20 PM" src="https://github.com/user-attachments/assets/45f08506-591b-42bf-b7ad-049522af1555" />
-    </p>
-    <img width="591" height="459" alt="Screenshot 2025-11-05 at 4 57 45 PM" src="https://github.com/user-attachments/assets/a734267e-80f3-4b16-b4c5-bef60caad096" />
+</p>
+
+<p>
+
+**Step 2-** Allow HeidiSQL Setup to make changes to the device by click "Yes" → I accept the agreement → Next → Next → Next → Next → Install → Launch HeidiSQL → Finish.
+    
+</p>
+
+<p>
+<img width="316" height="227" alt="Screenshot 2026-04-07 at 6 32 59 PM" src="https://github.com/user-attachments/assets/2f77daf4-050f-450b-8df3-9f3831a39bd5" />
+</p>
+
+<img width="591" height="459" alt="Screenshot 2025-11-05 at 4 57 45 PM" src="https://github.com/user-attachments/assets/a734267e-80f3-4b16-b4c5-bef60caad096" />
 <img width="590" height="462" alt="Screenshot 2025-11-05 at 4 58 02 PM" src="https://github.com/user-attachments/assets/f70b29fa-c5d5-49c2-a674-a5639833b47b" />
 <img width="592" height="456" alt="Screenshot 2025-11-05 at 4 58 19 PM" src="https://github.com/user-attachments/assets/6ff8bc79-1f9e-44b2-8469-d52c50d7fb9e" />
 <img width="593" height="460" alt="Screenshot 2025-11-05 at 4 59 16 PM" src="https://github.com/user-attachments/assets/81a04762-e203-4a8a-a2e1-a22f9a0b36d6" />
