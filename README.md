@@ -206,7 +206,7 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 <p>
 
 **Task 9-**
-      From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe. Start by double clicking VC_redist.x86.exe, check the "I agree to the license terms and conditions" box and Select Install.
+      From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe. Start by double clicking VC_redist.x86.exe, check the "I agree to the license terms and conditions" box and Select Install. Allow the app to make changes to the device by selecting yes, The setup is successful.
 
     
 </p>
