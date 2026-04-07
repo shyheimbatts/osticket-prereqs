@@ -297,13 +297,15 @@ Step 6 - Delete the zip file(osTicket-Installation-Files) but keep the actual ex
 
 </p>
 
+
+<img width="770" height="775" alt="Screenshot 2025-11-05 at 1 58 31 PM" src="https://github.com/user-attachments/assets/bbea5365-9757-4b0d-b6f3-2464008c921b" />
+
 <p>
 
 **Step 2-** Register PHP from within IIS (PHP Manager → C:\PHP\php-cgi.exe)↓
 
     
 </p>
-<img width="770" height="775" alt="Screenshot 2025-11-05 at 1 58 31 PM" src="https://github.com/user-attachments/assets/bbea5365-9757-4b0d-b6f3-2464008c921b" />
 <img width="1061" height="599" alt="Screenshot 2025-11-05 at 2 01 22 PM" src="https://github.com/user-attachments/assets/52522aa0-6c5a-475c-ae2d-27c99d81b03a" />
 <img width="855" height="467" alt="Screenshot 2025-11-05 at 2 02 37 PM" src="https://github.com/user-attachments/assets/044c0574-2341-45e5-af77-7338baf4f70a" />
 <img width="502" height="214" alt="Screenshot 2025-11-05 at 2 03 15 PM" src="https://github.com/user-attachments/assets/131058af-a0f0-44e8-a103-db8579889057" />
