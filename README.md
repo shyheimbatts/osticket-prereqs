@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Visual C++ Redistributable (required for PHP/MySQL)
 
-<h2>Installation Steps</h2>
+<h2>Installation Tasks with Steps Included Below↓</h2>
 
 - Task 1 Create the Virtual Machine(VM)                                                                       
 - Task 2 Log into the Virtual Machine(VM) with Remote Desktop
@@ -67,7 +67,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Task 21 Install HeidiSQL
 - Task 22 Continue osTicket setup in Browser
 - Task 23 Setup Completed
-    <h2> _________________________________________________________</h2>
+    <h2>Configuration Tasks↓</h2>
   
   <p>
  **Task 1** - Start by clicking the "Create" button, then select the "Virtual Machine" option from the drop-down menu. Next, under the **Basics** tab, scroll down to **Resource group**, where you see the red arrow, and click **Create new**. The name for the resource group will be **osTicket**. After that, select **OK** and scroll down to the **image**. Select **Windows 11 Pro, Version 24H2 x64 Gen2** from the drop-down menu next to **Image** and for the **Size** select **Standard _D2s_v3 - 2 Virtual Central Processing Unit(vcpus), 8 GiB Memory**. Scroll down to fill in the **"Username"** and **"Password"** section with something that's easy to remember. Be sure to click the **checkmark** under the licensing section and click **review + create**. To deploy the Virtual Machine, click **Create**. The Virtual Machine is created and ready for use.
